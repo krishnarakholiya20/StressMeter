@@ -1,2 +1,1 @@
-# StressMeter
-A "StressMeter library" in context we have discussed, isn't pre-built python library you'd install with pip.instend, it's a custom-built application de
+ System Stress Check using the StressMeter class from a custom Python package named stressmeter. The notebook adds the project directory to the system path, imports the main class, and prints diagnostics like CPU usage, memory, GPU load, temperature, disk, battery, and more. It's designed to help monitor system health in real time.
